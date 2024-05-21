@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ashutosh kumar
 - 👀 I’m interested in Software developer
-- 🌱 I’m currently learning BBA(CA)
 - 💞️ I’m looking to collaborate on web technology
 - 📫 How to reach me ...
 
